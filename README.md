@@ -4,11 +4,14 @@
 
 # Hi there 👋, I'm Kalana Nirmal
 
-I'm Software Engineer Undergraduate from Junior University of Advanced Technological Institute Trincomalee,Srilanka. I am Developing Mobile Application Using Flutter Framework..
+I'm Software Engineer Undergraduate from Junior University of Advanced Technological Institute Trincomalee,Srilanka. 
+I am Developing Mobile Application Using Flutter Framework..
 
 
 
-##Skills and Experience 
+
+
+## Skills and Experience 
 * Mobile Application development 
 * Flutter
 * Dart
@@ -21,8 +24,7 @@ I'm Software Engineer Undergraduate from Junior University of Advanced Technolog
 
 
 
-Skills: Mobile Application Development  / Flutter / Dart / Android /Java / VB.NET/C# /
-
+### 
 - 🔭 I’m currently working on Apss Lanka Software Solutions
 - 🌱 I’m currently learning Flutter Fremwork and new technologies and updates about the IT industry.
 
