@@ -8,7 +8,7 @@ I am Developing Mobile Application Using Flutter Framework..
 Skills: Mobile Application Development  / Flutter / Dart / Android /Java / VB.NET/C# /
 
 - 🔭 I’m currently working on Apss Lanka  
-- 🌱 I’m currently learning Flutter Fremwork 
+- 🌱 I’m currently learning Flutter Fremwork and new technologies and updates about the IT industry.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kalananirmal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kalana-nirmal//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kalananirmal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kalananirmal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](a.kalananirmal@gmail.com)  
