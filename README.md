@@ -1,21 +1,29 @@
 
 
-![I am Undergraduate Software Engineer ](https://github.com/kalananirmal/kalananirmal/blob/main/Black%20White%20Modern%20Offline%20Twitch%20Banner.pdf)
+![I am Undergraduate Software Engineer ](https://github.com/kalananirmal/kalananirmal/blob/main/cover_img.png)
+
+# Hi there 👋, I'm Kalana Nirmal
+
+I'm Software Engineer Undergraduate from Junior University of Advanced Technological Institute Trincomalee,Srilanka. I am Developing Mobile Application Using Flutter Framework..
 
 
 
+##Skills and Experience 
+* Mobile Application development 
+* Flutter
+* Dart
+* Android 
+* Java
+* VB.NET
+* C#
+* PHP
+* C++
 
-### Hi there 👋, my name is Kalana Nirmal
 
-
-#### I am Undergraduate Software Engineer 
-
-I'm Software Engineer Undergraduate from Junior University of Advanced Technological Institute Trincomalee , Srilanka. 
-I am Developing Mobile Application Using Flutter Framework..
 
 Skills: Mobile Application Development  / Flutter / Dart / Android /Java / VB.NET/C# /
 
-- 🔭 I’m currently working on Apss Lanka  
+- 🔭 I’m currently working on Apss Lanka Software Solutions
 - 🌱 I’m currently learning Flutter Fremwork and new technologies and updates about the IT industry.
 
 ###
