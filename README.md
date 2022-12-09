@@ -1,6 +1,6 @@
 
 
-![I am Undergraduate Software Engineer ](https://github.com/kalananirmal/kalananirmal/blob/main/Black%20White%20Modern%20Offline%20Twitch%20Banner.png)
+![I am Undergraduate Software Engineer ](https://github.com/kalananirmal/kalananirmal/blob/main/Black%20White%20Modern%20Offline%20Twitch%20Banner.pdf)
 
 
 
