@@ -24,15 +24,12 @@ I am Developing Mobile Application Using Flutter Framework..
 
 
 
-### 
-- 🔭 I’m currently working on Apss Lanka Software Solutions
-- 🌱 I’m currently learning Flutter Fremwork and new technologies and updates about the IT industry.
+
+
+ ### - 🔭 I’m currently working on Apss Lanka Software Solutions
+  ###  - 🌱 I’m currently learning Flutter Fremwork and new technologies and updates about the IT industry.
 
 ###
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kalananirmal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kalana-nirmal//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://[www.facebook.com/KalanaNirmal](https://www.facebook.com/profile.php?id=100078521636648&mibextid=ZbWKwL))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kalananirmal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](a.kalananirmal@gmail.com)  
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/kalananirmal&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/kalananirmal)  
