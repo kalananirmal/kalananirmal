@@ -1,6 +1,14 @@
-### Hi there 👋, my name is Kalana Nirmal
-#### I am Undergraduate Software Engineer 
+
+
 ![I am Undergraduate Software Engineer ](https://github.com/kalananirmal/kalananirmal/blob/main/Black%20White%20Modern%20Offline%20Twitch%20Banner.png)
+
+
+
+
+### Hi there 👋, my name is Kalana Nirmal
+
+
+#### I am Undergraduate Software Engineer 
 
 I'm Software Engineer Undergraduate from Junior University of Advanced Technological Institute Trincomalee , Srilanka. 
 I am Developing Mobile Application Using Flutter Framework..
